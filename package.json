@@ -1,0 +1,11 @@
+{
+  "name": "expresso",
+  "version": "0.0.0",
+  "main": "app.js",
+  "repository": "",
+  "author": "john@johnhunter.info",
+  "devDependencies": {
+    "express": "~3.3.4",
+    "hogan-express": "~0.3.3"
+  }
+}
